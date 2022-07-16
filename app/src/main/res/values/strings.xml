@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fren</string>
+    <string-array name="duration_array">
+<!--        <item>0.5 minute</item>-->
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>30 minutes</item>
+    </string-array>
+</resources>
